@@ -1,2 +1,2 @@
 # CP
-Contains for Glossary for Competitive Programming related Stuffs in cpp/py 
+Contains my Glossary for Competitive Programming related Stuffs in cpp/py 
