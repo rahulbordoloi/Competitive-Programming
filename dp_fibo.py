@@ -17,7 +17,7 @@ def fibo_mem(n,memo):                   #filling the array from L->R as we go on
     memo[n]=result
     return result
 
-#bottom_up
+"""#bottom_up
 def fibo_bottomup(n):
     if n==1 or n==2:
         result=1
@@ -26,7 +26,7 @@ def fibo_bottomup(n):
     bottom_up[2] = 1
     for i in range(3, n+1):         #from 3rd element to last
         bottom_up[i] = bottom_up[i-1] + bottom_up[i-2]
-    return bottom_up[n]
+    return bottom_up[n]"""
 
 if __name__=='__main__':
     n=int(input())
