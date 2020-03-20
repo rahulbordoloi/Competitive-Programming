@@ -1,15 +1,3 @@
-/*High Radius Tech Track Coding
-Set A
-Q. You're a coach at a local university, there are n students under you, the programming skill of the i-th student is a[i]. Create a balanced team for a programming comp..
-Take in more students(increases probability of winning). Create a team with maximum no. of students but the overall skill difference shouldn't exceed 5.
-1st Line Consists of no. of students n and the next line programming skill of i-th student.
-
-Sample i/p-
-6
-1 15 2 10 12 17
-Sample o/p-
-3
-*/
 #include<bits/stdc++.h>
 #define fast ios_base::sync_with_stdio(0);cin.tie(NULL);cout.tie(NULL)
 #define f(i,a,b) for(i=a;i<b;i++)
