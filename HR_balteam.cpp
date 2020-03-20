@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<bits/stdc++.h> 
 #define fast ios_base::sync_with_stdio(0);cin.tie(NULL);cout.tie(NULL)
 #define f(i,a,b) for(i=a;i<b;i++)
 #define fr(i,a,b) for(i=a;i>=b;i--)
